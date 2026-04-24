@@ -28,8 +28,10 @@ po.ahk: Supporting automation script.
 
 ### ⌨️ Quick Reference Table
 
+
 | Key | Action | Description |
 | :--- | :--- | :--- |
+| **Home** | **Start Auto-Paste** | Press this to start pasting all data in 1 second. |
 | **F8** | **Auto-Flow** | Consecutive field filling (Auto-Tab). |
 | **Ctrl** | **Pause/Resume** | Pause to skip a field, press again to resume. |
 | **F2** | **Auto-Submit** | Scroll and Submit automatically. |
