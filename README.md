@@ -36,3 +36,12 @@ po.ahk: Supporting automation script.
 | **Ctrl** | **Pause/Resume** | Pause to skip a field, press again to resume. |
 | **F2** | **Auto-Submit** | Scroll and Submit automatically. |
 | **F9** | **Reset** | Clear clipboard queue and restart fresh. |
+
+
+---
+> [!IMPORTANT]
+> To fill out the Google Form, you must run the following **3 files** from the extracted folder:
+> 1. **autosubmit.py** (Run first and minimize the window)
+> 2. **FormFill_v2.ahk**
+> 3. **AutoPaste_Manual+Auto.ahk**
+
