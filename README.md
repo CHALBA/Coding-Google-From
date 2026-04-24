@@ -24,3 +24,13 @@ autosubmit.py: Manages the backend submission process.
 FormFill_v2.ahk: The main automation engine for keystrokes.
 AutoPaste_Manual-Auto.ahk: Handles advanced pasting logic.
 po.ahk: Supporting automation script.
+
+
+### ⌨️ Quick Reference Table
+
+| Key | Action | Description |
+| :--- | :--- | :--- |
+| **F8** | **Auto-Flow** | Consecutive field filling (Auto-Tab). |
+| **Ctrl** | **Pause/Resume** | Pause to skip a field, press again to resume. |
+| **F2** | **Auto-Submit** | Scroll and Submit automatically. |
+| **F9** | **Reset** | Clear clipboard queue and restart fresh. |
